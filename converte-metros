@@ -1,0 +1,2 @@
+metro = float (input("Digite quantos metros: "))
+print ("Isso corresponde a", metro * 100,"cm")
