@@ -1,0 +1,2 @@
+raio = float (input ("Digite o tamanho do raio: "))
+print ("A área do círculo é: ",raio**raio * 3.14)
